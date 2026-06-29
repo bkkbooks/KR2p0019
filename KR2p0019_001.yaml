@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0019/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯穆公問於子思曰何如而可謂忠臣子思曰恆稱其君之惡者可謂忠臣矣公不悅揖而退之成孫弋見公曰嚮者吾問忠臣於子思子思曰恆稱其君之惡者可謂忠臣矣寡人惑焉而未之得也成孫弋曰噫善哉言乎夫為其君之故殺其身者嘗有之矣恆稱其君之惡者未之有也夫為其君之故殺其身者效祿爵者也恆稱其君之惡者遠祿爵者也為義而遠祿爵非子思吾惡聞之矣
+  hash: sha256:eeee3832c65a969d9a6b5f5e846ea2f05e365622b8e8d5ddbae126691de3d524
+metadata:
+  title: 郭店楚簡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0019.xml
+hash: sha256:bdbbab0d20cdb9d814329e8cfb47485640cb7af0799ad862af3f8740cf711fdc
